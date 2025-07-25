@@ -25,11 +25,15 @@ After `cloning` the assignment you should make two commits:
 (4) Pull the changes from GitHub to your computer. You should now see a merge conflict in VS Code. Fix the merge conflict by editing file (see the lines with `<<<<<<<` and `>>>>>>>`) and commit the changes.
 (5) Push the changes back to GitHub and double check that you can see the fixed version on GitHub.
 
-Provide the **name** information requested below in the cloned repo and provide the **date** information requested below through GitHub directly:
+> Important: Provide the **name** information requested below in the cloned repo and provide the **date** information requested below through GitHub directly:
 
---
+---
 
-Your name: Jacob Villar Date: **\_**
+
+
+
+Your name: Jacob Villar Date: 07/25/2025
+
 
 ---
 
