@@ -29,7 +29,7 @@ Provide the **name** information requested below in the cloned repo and provide 
 
 --
 
-Your name: \***\*\_\_\*\*** Date: **\_**
+Your name: Jacob Villar Date: **\_**
 
 ---
 
